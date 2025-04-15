@@ -37,3 +37,8 @@ I'm a second-year Computer Science student at the State University of Moldova. I
 
 ## Contact
 - **Discord:** trulyno
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=trulyno&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
