@@ -56,7 +56,6 @@ I'm a second-year Computer Science student at the State University of Moldova. I
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=trulyno&theme=radical)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trulyno&layout=compact&theme=radical)
 
 
