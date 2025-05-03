@@ -43,4 +43,14 @@ I'm a second-year Computer Science student at the State University of Moldova. I
   <img src="https://github-profile-trophy.vercel.app?username=trulyno&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-[![Trulyno's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulyno)](https://github.com/trulyno/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=trulyno&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=trulyno&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trulyno&show_icons=true" />
+</picture>
