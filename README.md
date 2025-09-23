@@ -1,9 +1,5 @@
 
 ## Hi there👋! I'm Daniel, known as trulyno on the internet.
----
-![Yes, a cat as a profile picture](./images/avatar.jpg)
-
-*Yes, a cat as a profile picture. Btw, his name is Kuzuri.*
 
 ---
 
